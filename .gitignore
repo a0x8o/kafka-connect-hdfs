@@ -1,0 +1,22 @@
+# Build products
+target/
+build/
+
+# IntelliJ data
+*.iml
+.idea/
+.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Documentation build output
+/docs/_build
+
+# Hive metastore
+metastore_db/
+derby.log
+
+.DS_Store
